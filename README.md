@@ -29,7 +29,6 @@ Whether through coding, writing, or sharing insights, I'm always looking for way
 I'm keen to connect with fellow enthusiasts, potential collaborators, or anyone interested in a lively discussion about data, finance, technology or life. 
 Don't hesitate to get in touch with me here on GitHub, via Twitter, or through my blog.
 
-- **Twitter:** [Follow me on Twitter](https://twitter.com/Rodrigo10466906)
 - **Blog/Website:** [Read my stories on Medium](https://medium.com/@rodrigo.maciel.rubio)
 - **E-mail:** rodrigo.maciel.rubio@gmail.com
 
